@@ -1,0 +1,10 @@
+#Wed Mar 29 04:41:58 EDT 2017
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=/Users/junhaochen/Desktop/SurfaceViewExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.3_51a87d5c46b57c5b4cd921f34d1e440c1ef60841
+base.1=/Users/junhaochen/Desktop/SurfaceViewExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.3_508b63c07980d5c2dfe8303ffce98972a95a5a2d
+base.0=/Users/junhaochen/Desktop/SurfaceViewExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b69dc3b87bb25ee43a205d2b16ac4c3be5c9eec8
+file.2=/Users/junhaochen/Desktop/SurfaceViewExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.3_51a87d5c46b57c5b4cd921f34d1e440c1ef60841/classes.dex
+file.1=/Users/junhaochen/Desktop/SurfaceViewExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.3_508b63c07980d5c2dfe8303ffce98972a95a5a2d/classes.dex
+file.0=/Users/junhaochen/Desktop/SurfaceViewExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b69dc3b87bb25ee43a205d2b16ac4c3be5c9eec8/classes.dex

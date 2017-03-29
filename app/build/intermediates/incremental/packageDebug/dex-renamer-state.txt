@@ -1,0 +1,7 @@
+#Wed Mar 29 04:41:59 EDT 2017
+base.0=/Users/junhaochen/Desktop/SurfaceViewExample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d105d7982f273458e2ab7025b034a901e05d087f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/junhaochen/Desktop/SurfaceViewExample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3e761627966d2b906e8cebda3127a312c2c878a3/classes.dex
+base.1=/Users/junhaochen/Desktop/SurfaceViewExample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3e761627966d2b906e8cebda3127a312c2c878a3
+file.0=/Users/junhaochen/Desktop/SurfaceViewExample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d105d7982f273458e2ab7025b034a901e05d087f/classes.dex

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output"><source path="/Users/junhaochen/.android/build-cache/e26d425a6d603c92284e732028b1898ef29697fd/output/assets"/></dataSet><dataSet config="main"><source path="/Users/junhaochen/Desktop/SurfaceViewExample/app/src/main/assets"/><source path="/Users/junhaochen/Desktop/SurfaceViewExample/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/junhaochen/Desktop/SurfaceViewExample/app/src/debug/assets"/></dataSet></merger>
